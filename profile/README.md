@@ -48,6 +48,6 @@ Penyakit kulit seperti jerawat, eksim, psoriasis, dan kanker kulit sering sulit 
 
 - **Backend:** Node.js, Express.js, MongoDB (Mongoose)  
 - **Frontend:** React.js, Tailwind CSS  
-- **Machine Learning:**   
+- **Machine Learning:** Transfer Learning, Efficientbnet3, Sequential, Conv2dpooling, Callback, Earlystopping
 - **Autentikasi:** JSON Web Token (JWT)  
-- **Hosting & Deployment:** 
+- **Hosting & Deployment:** Vercel, Azure
